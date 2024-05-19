@@ -1,0 +1,27 @@
+{
+  "token": "MTIxODI2MDgxNjA0Njg1MDA1OQ.G-VQFt.bZkqnm9JjDUE_Z64E2u5RrTgW2QVsS4s9Mj0zM",
+  "username": "blaz3",
+  "password": "blaz3",
+  "port": "3000",
+  "clientId": "1218260816046850059",
+  "guildId": "1218260816046850059",
+  "globalDeploy": true,
+  "status": "Welcome To Bargin Hunters!",
+  "website": "",
+  "banner": "",
+  "footer": "",
+  "genChannel": "1218262370145534066", 
+  "premiumChannel": "1190639914547675207",
+  "genCooldown": "86400",
+  "premiumCooldown": "8640",
+  "color": {
+    "green": "0xFFFFFF",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
